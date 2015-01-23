@@ -2,6 +2,7 @@
 
 {% load staticfiles %}
 {% load imagefixes %}
+{% load standing %}
 
 {% block extra_head %}
     <link rel="canonical" href="{% url 'person-view' person.id person.name|slugify %}" />
@@ -69,9 +70,7 @@
   </tr>
   <tr>
     <td>Contested constituency (in 2015):</td>
-    <td>{% if person.standing_in.2015 %}
-      <a href="{% url 'constituency' person.standing_in.2015.post_id person.standing_in.2015.name|slugify  %}">{{ person.standing_in.2015.name }}</a>
-    {% endif %}</td>
+    <td>{{ person.standing_in|constituency_in_year:"2015" }}</td>
   </tr>
   <tr>
     <td>Party (in 2015):</td>
@@ -81,9 +80,7 @@
   </tr>
   <tr>
     <td>Contested constituency (in 2010):</td>
-    <td>{% if person.standing_in.2010 %}
-      <a href="{% url 'constituency' person.standing_in.2010.post_id person.standing_in.2010.name|slugify  %}">{{ person.standing_in.2010.name }}</a>
-    {% endif %}</td>
+    <td>{{ person.standing_in|constituency_in_year:"2010" }}</td>
   </tr>
   <tr>
     <td>Party (in 2010):</td>
