@@ -1,0 +1,67 @@
+@import "../foundation/scss/foundation/functions";
+
+$color-orange: #f97d3d;
+$color-red: #c55e59;
+$color-gold: #ba9f50;
+$color-blue: #085184;
+$color-cyan: #029db9;
+$color-teal: #09a691;
+$color-offwhite: #ece7e1;
+$color-cream: #e4dfdb;
+$color-yellow: #fdf2d5;
+
+$header-background-color: $color-red;
+$body-background-color: mix($color-offwhite, #fff, 60%);
+$footer-text-color: mix($color-offwhite, #000, 60%);
+$content-background-color: #fff;
+
+$muted-text-color: darken($color-cream, 20%);
+
+$message-background-color: #FDF2D5; // lighter version of $color-gold
+$message-border-color: lighten($color-gold, 30%);
+
+$highlight-background-color: $color-yellow;
+$information-background-color: mix($color-cyan, #fff, 15%);
+$danger-background-color: mix($color-red, #fff, 15%);
+
+$confirmation-background-color: $color-yellow;
+$error-background-color: mix($color-red, #fff, 15%);
+$error-text-color: darken($color-red, 10%);
+$error-border-color: mix($color-red, #fff, 30%);
+$error-input-border-color: mix($color-red, #fff, 40%);
+
+$avatar-background-color: #ddd;
+
+$unknown-candidate-status-color: $color-orange;
+$not-standing-candidate-status-color: $color-red;
+
+$homepage-description-background-color: $body-background-color;
+$homepage-description-text-color: #887; // dark desaturated browny-grey
+$homepage-activity-color: $color-cyan;
+$homepage-leaderboard-color: $color-gold;
+
+// Override Foundation variables here
+$primary-color: $color-red;
+$secondary-color: $color-cream;
+$button-tny: rem-calc(6);
+$button-sml: rem-calc(8);
+$button-med: rem-calc(10);
+$button-lrg: rem-calc(14);
+$button-radius: 3px;
+$code-font-family: Consolas, Monaco, 'Liberation Mono', Courier, monospace;
+
+@import "../foundation/scss/normalize";
+@import "../foundation/scss/foundation";
+
+@import "header";
+@import "content";
+@import "footer";
+@import "forms";
+
+@import "finder";
+@import "people";
+@import "versions";
+@import "parties";
+@import "person_edit";
+@import "copyright-assignment";
+@import "leaderboards";
