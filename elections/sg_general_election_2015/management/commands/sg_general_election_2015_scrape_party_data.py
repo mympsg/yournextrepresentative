@@ -2,6 +2,7 @@ from __future__ import print_function
 
 import bs4
 from django.core.management.base import BaseCommand
+from django.utils.text import slugify
 import json
 import logging
 import requests
@@ -9,30 +10,20 @@ import requests
 logger = logging.getLogger(__name__)
 
 
-def make_organization(id=None,
-               name=None,
-               other_names=[],
-               identifiers=[],
-               classification=None,
-               parent_id=None,
-               parent=None,
-               area_id=None,
-               area=None,
-               abstract=None,
-               founding_date=None,
-               dissolution_date=None,
-               image=None,
-               contact_details=[],
-               links=[],
-               memberships=[],
-               posts=[],
-               motions=[],
-               vote_events=[],
-               votes=[],
-               children=[],
-               created_at=None,
-               updated_at=None,
-               sources=[]):
+def make_organization(id,
+                      name,
+                      classification='',
+                      contact_details=[],
+                      dissolution_date=None,
+                      founding_date=None,
+                      identifiers=[],
+                      links=[],
+                      memberships=[],
+                      other_names=[],
+                      posts=[],
+                      register="Singapore"):
+    slug = slugify(name)
+
     return locals()
 
 class Command(BaseCommand):
