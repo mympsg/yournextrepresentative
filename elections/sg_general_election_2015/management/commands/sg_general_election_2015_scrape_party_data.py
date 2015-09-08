@@ -4,10 +4,7 @@ import bs4
 from django.core.management.base import BaseCommand
 from django.utils.text import slugify
 import json
-import logging
 import requests
-
-logger = logging.getLogger(__name__)
 
 
 def make_organization(id,
@@ -25,6 +22,7 @@ def make_organization(id,
     slug = slugify(name)
 
     return locals()
+
 
 class Command(BaseCommand):
     help = "Scrape party information from eld.gov.sg"
