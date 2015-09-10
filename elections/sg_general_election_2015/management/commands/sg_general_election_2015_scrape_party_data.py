@@ -49,4 +49,5 @@ class Command(BaseCommand):
                 yield make_organization(name=fullname, id=abbrev,
                                  classification="Party")
 
-        print(json.dumps(list(gen_parties()), indent=4))
+        print(json.dumps(list(gen_parties()), indent=4,
+                         separators=(',', ': ')))
