@@ -1,0 +1,2545 @@
+[
+    {
+        "fields": {
+            "name": "LEE HSIEN LOONG"
+        },
+        "model": "popolo.person",
+        "pk": "lee-hsien-loong"
+    },
+    {
+        "fields": {
+            "name": "GOH KEOW WAH"
+        },
+        "model": "popolo.person",
+        "pk": "goh-keow-wah"
+    },
+    {
+        "fields": {
+            "name": "THARMAN SHANMUGARATNAM"
+        },
+        "model": "popolo.person",
+        "pk": "tharman-shanmugaratnam"
+    },
+    {
+        "fields": {
+            "name": "MOHD MALIKI BIN OSMAN"
+        },
+        "model": "popolo.person",
+        "pk": "mohd-maliki-bin-osman"
+    },
+    {
+        "fields": {
+            "name": "PWEE YEK KWAN BENJAMIN"
+        },
+        "model": "popolo.person",
+        "pk": "pwee-yek-kwan-benjamin"
+    },
+    {
+        "fields": {
+            "name": "ZAINAL BIN SAPARI"
+        },
+        "model": "popolo.person",
+        "pk": "zainal-bin-sapari"
+    },
+    {
+        "fields": {
+            "name": "KHUNG WAI YEEN"
+        },
+        "model": "popolo.person",
+        "pk": "khung-wai-yeen"
+    },
+    {
+        "fields": {
+            "name": "CHONG WAI FUNG"
+        },
+        "model": "popolo.person",
+        "pk": "chong-wai-fung"
+    },
+    {
+        "fields": {
+            "name": "LIM TONG ZHEN"
+        },
+        "model": "popolo.person",
+        "pk": "lim-tong-zhen"
+    },
+    {
+        "fields": {
+            "name": "CHAN SIO PHING FRIEDA (ZENG XIAOPING)"
+        },
+        "model": "popolo.person",
+        "pk": "chan-sio-phing-frieda-zeng-xiaoping"
+    },
+    {
+        "fields": {
+            "name": "ONG BENG SOON ELVIN"
+        },
+        "model": "popolo.person",
+        "pk": "ong-beng-soon-elvin"
+    },
+    {
+        "fields": {
+            "name": "LOW THIA KHIANG"
+        },
+        "model": "popolo.person",
+        "pk": "low-thia-khiang"
+    },
+    {
+        "fields": {
+            "name": "TAN CHUAN-JIN"
+        },
+        "model": "popolo.person",
+        "pk": "tan-chuan-jin"
+    },
+    {
+        "fields": {
+            "name": "PRITAM SINGH"
+        },
+        "model": "popolo.person",
+        "pk": "pritam-singh"
+    },
+    {
+        "fields": {
+            "name": "K SHANMUGAM"
+        },
+        "model": "popolo.person",
+        "pk": "k-shanmugam"
+    },
+    {
+        "fields": {
+            "name": "LIM BAK CHUAN DESMOND"
+        },
+        "model": "popolo.person",
+        "pk": "lim-bak-chuan-desmond"
+    },
+    {
+        "fields": {
+            "name": "YEE CHIA HSING"
+        },
+        "model": "popolo.person",
+        "pk": "yee-chia-hsing"
+    },
+    {
+        "fields": {
+            "name": "AMRIN AMIN"
+        },
+        "model": "popolo.person",
+        "pk": "amrin-amin"
+    },
+    {
+        "fields": {
+            "name": "ZAQY MOHAMAD"
+        },
+        "model": "popolo.person",
+        "pk": "zaqy-mohamad"
+    },
+    {
+        "fields": {
+            "name": "PNG ENG HUAT"
+        },
+        "model": "popolo.person",
+        "pk": "png-eng-huat"
+    },
+    {
+        "fields": {
+            "name": "SIM ANN"
+        },
+        "model": "popolo.person",
+        "pk": "sim-ann"
+    },
+    {
+        "fields": {
+            "name": "S ISWARAN"
+        },
+        "model": "popolo.person",
+        "pk": "s-iswaran"
+    },
+    {
+        "fields": {
+            "name": "CHONG KEE HIONG"
+        },
+        "model": "popolo.person",
+        "pk": "chong-kee-hiong"
+    },
+    {
+        "fields": {
+            "name": "KENNETH ANDREW JEYARETNAM"
+        },
+        "model": "popolo.person",
+        "pk": "kenneth-andrew-jeyaretnam"
+    },
+    {
+        "fields": {
+            "name": "GAN KIM YONG"
+        },
+        "model": "popolo.person",
+        "pk": "gan-kim-yong"
+    },
+    {
+        "fields": {
+            "name": "TAN PENG ANN"
+        },
+        "model": "popolo.person",
+        "pk": "tan-peng-ann"
+    },
+    {
+        "fields": {
+            "name": "INDRANEE THURAI RAJAH"
+        },
+        "model": "popolo.person",
+        "pk": "indranee-thurai-rajah"
+    },
+    {
+        "fields": {
+            "name": "GURMIT SINGH S/O SADHU SINGH"
+        },
+        "model": "popolo.person",
+        "pk": "gurmit-singh-so-sadhu-singh"
+    },
+    {
+        "fields": {
+            "name": "ONG YE KUNG"
+        },
+        "model": "popolo.person",
+        "pk": "ong-ye-kung"
+    },
+    {
+        "fields": {
+            "name": "LIM TUNG HEE ARTHERO"
+        },
+        "model": "popolo.person",
+        "pk": "lim-tung-hee-arthero"
+    },
+    {
+        "fields": {
+            "name": "LEE BEE WAH"
+        },
+        "model": "popolo.person",
+        "pk": "lee-bee-wah"
+    },
+    {
+        "fields": {
+            "name": "LILY NEO"
+        },
+        "model": "popolo.person",
+        "pk": "lily-neo"
+    },
+    {
+        "fields": {
+            "name": "CHEN SHOW MAO"
+        },
+        "model": "popolo.person",
+        "pk": "chen-show-mao"
+    },
+    {
+        "fields": {
+            "name": "MD FAISAL BIN ABDUL MANAP"
+        },
+        "model": "popolo.person",
+        "pk": "md-faisal-bin-abdul-manap"
+    },
+    {
+        "fields": {
+            "name": "VIKRAM NAIR"
+        },
+        "model": "popolo.person",
+        "pk": "vikram-nair"
+    },
+    {
+        "fields": {
+            "name": "LOW WAI CHOO"
+        },
+        "model": "popolo.person",
+        "pk": "low-wai-choo"
+    },
+    {
+        "fields": {
+            "name": "CHERYL CHAN WEI LING"
+        },
+        "model": "popolo.person",
+        "pk": "cheryl-chan-wei-ling"
+    },
+    {
+        "fields": {
+            "name": "TIN PEI LING"
+        },
+        "model": "popolo.person",
+        "pk": "tin-pei-ling"
+    },
+    {
+        "fields": {
+            "name": "YEO GUAT KWANG"
+        },
+        "model": "popolo.person",
+        "pk": "yeo-guat-kwang"
+    },
+    {
+        "fields": {
+            "name": "VIVIAN BALAKRISHNAN"
+        },
+        "model": "popolo.person",
+        "pk": "vivian-balakrishnan"
+    },
+    {
+        "fields": {
+            "name": "LAWRENCE WONG"
+        },
+        "model": "popolo.person",
+        "pk": "lawrence-wong"
+    },
+    {
+        "fields": {
+            "name": "RAHAYU BINTE MAHZAM"
+        },
+        "model": "popolo.person",
+        "pk": "rahayu-binte-mahzam"
+    },
+    {
+        "fields": {
+            "name": "TONG CHUN FAI EDWIN CHARLES"
+        },
+        "model": "popolo.person",
+        "pk": "tong-chun-fai-edwin-charles"
+    },
+    {
+        "fields": {
+            "name": "HALIMAH  YACOB"
+        },
+        "model": "popolo.person",
+        "pk": "halimah-yacob"
+    },
+    {
+        "fields": {
+            "name": "DAVID ONG KIM HUAT"
+        },
+        "model": "popolo.person",
+        "pk": "david-ong-kim-huat"
+    },
+    {
+        "fields": {
+            "name": "ONG TEIK SENG"
+        },
+        "model": "popolo.person",
+        "pk": "ong-teik-seng"
+    },
+    {
+        "fields": {
+            "name": "ALEX YAM ZIMING"
+        },
+        "model": "popolo.person",
+        "pk": "alex-yam-ziming"
+    },
+    {
+        "fields": {
+            "name": "DAVID DARRYL WILSON"
+        },
+        "model": "popolo.person",
+        "pk": "david-darryl-wilson"
+    },
+    {
+        "fields": {
+            "name": "GAN THIAM POH"
+        },
+        "model": "popolo.person",
+        "pk": "gan-thiam-poh"
+    },
+    {
+        "fields": {
+            "name": "SYLVIA LIM"
+        },
+        "model": "popolo.person",
+        "pk": "sylvia-lim"
+    },
+    {
+        "fields": {
+            "name": "LYE THIAM FATT JOSEPH VICTOR"
+        },
+        "model": "popolo.person",
+        "pk": "lye-thiam-fatt-joseph-victor"
+    },
+    {
+        "fields": {
+            "name": "ANG HIN KEE"
+        },
+        "model": "popolo.person",
+        "pk": "ang-hin-kee"
+    },
+    {
+        "fields": {
+            "name": "WONG SOON HONG"
+        },
+        "model": "popolo.person",
+        "pk": "wong-soon-hong"
+    },
+    {
+        "fields": {
+            "name": "JOAN PEREIRA"
+        },
+        "model": "popolo.person",
+        "pk": "joan-pereira"
+    },
+    {
+        "fields": {
+            "name": "KOH TIONG YEE"
+        },
+        "model": "popolo.person",
+        "pk": "koh-tiong-yee"
+    },
+    {
+        "fields": {
+            "name": "LAM PIN MIN"
+        },
+        "model": "popolo.person",
+        "pk": "lam-pin-min"
+    },
+    {
+        "fields": {
+            "name": "FIRUZ KHAN"
+        },
+        "model": "popolo.person",
+        "pk": "firuz-khan"
+    },
+    {
+        "fields": {
+            "name": "AMY KHOR LEAN SUAN"
+        },
+        "model": "popolo.person",
+        "pk": "amy-khor-lean-suan"
+    },
+    {
+        "fields": {
+            "name": "HAN HUI HUI"
+        },
+        "model": "popolo.person",
+        "pk": "han-hui-hui"
+    },
+    {
+        "fields": {
+            "name": "CHIU WENG HOE MELVYN"
+        },
+        "model": "popolo.person",
+        "pk": "chiu-weng-hoe-melvyn"
+    },
+    {
+        "fields": {
+            "name": "GOH MENG SENG"
+        },
+        "model": "popolo.person",
+        "pk": "goh-meng-seng"
+    },
+    {
+        "fields": {
+            "name": "GRACE FU HAI YIEN"
+        },
+        "model": "popolo.person",
+        "pk": "grace-fu-hai-yien"
+    },
+    {
+        "fields": {
+            "name": "LOW YEN LING"
+        },
+        "model": "popolo.person",
+        "pk": "low-yen-ling"
+    },
+    {
+        "fields": {
+            "name": "GOH CHOK TONG"
+        },
+        "model": "popolo.person",
+        "pk": "goh-chok-tong"
+    },
+    {
+        "fields": {
+            "name": "HENG SWEE KEAT"
+        },
+        "model": "popolo.person",
+        "pk": "heng-swee-keat"
+    },
+    {
+        "fields": {
+            "name": "LIM SWEE SAY"
+        },
+        "model": "popolo.person",
+        "pk": "lim-swee-say"
+    },
+    {
+        "fields": {
+            "name": "TEO KWAY HUANG SEBASTIAN"
+        },
+        "model": "popolo.person",
+        "pk": "teo-kway-huang-sebastian"
+    },
+    {
+        "fields": {
+            "name": "CHIRAG PRAFUL DESAI"
+        },
+        "model": "popolo.person",
+        "pk": "chirag-praful-desai"
+    },
+    {
+        "fields": {
+            "name": "DENNIS TAN LIP FONG"
+        },
+        "model": "popolo.person",
+        "pk": "dennis-tan-lip-fong"
+    },
+    {
+        "fields": {
+            "name": "MELVIN YONG YIK CHYE"
+        },
+        "model": "popolo.person",
+        "pk": "melvin-yong-yik-chye"
+    },
+    {
+        "fields": {
+            "name": "TEO HO PIN"
+        },
+        "model": "popolo.person",
+        "pk": "teo-ho-pin"
+    },
+    {
+        "fields": {
+            "name": "SUKDEU SINGH"
+        },
+        "model": "popolo.person",
+        "pk": "sukdeu-singh"
+    },
+    {
+        "fields": {
+            "name": "WONG WAY WENG"
+        },
+        "model": "popolo.person",
+        "pk": "wong-way-weng"
+    },
+    {
+        "fields": {
+            "name": "YAACOB IBRAHIM"
+        },
+        "model": "popolo.person",
+        "pk": "yaacob-ibrahim"
+    },
+    {
+        "fields": {
+            "name": "SHAMSUL KAMAR BIN MOHAMED RAZALI"
+        },
+        "model": "popolo.person",
+        "pk": "shamsul-kamar-bin-mohamed-razali"
+    },
+    {
+        "fields": {
+            "name": "TEO SER LUCK"
+        },
+        "model": "popolo.person",
+        "pk": "teo-ser-luck"
+    },
+    {
+        "fields": {
+            "name": "NORAINI BTE YUNUS"
+        },
+        "model": "popolo.person",
+        "pk": "noraini-bte-yunus"
+    },
+    {
+        "fields": {
+            "name": "SOH GUAN SOON"
+        },
+        "model": "popolo.person",
+        "pk": "soh-guan-soon"
+    },
+    {
+        "fields": {
+            "name": "DENISE PHUA LAY PENG"
+        },
+        "model": "popolo.person",
+        "pk": "denise-phua-lay-peng"
+    },
+    {
+        "fields": {
+            "name": "ANG YONG GUAN"
+        },
+        "model": "popolo.person",
+        "pk": "ang-yong-guan"
+    },
+    {
+        "fields": {
+            "name": "DESMOND CHOO PEY CHING"
+        },
+        "model": "popolo.person",
+        "pk": "desmond-choo-pey-ching"
+    },
+    {
+        "fields": {
+            "name": "ABU BIN MOHAMED"
+        },
+        "model": "popolo.person",
+        "pk": "abu-bin-mohamed"
+    },
+    {
+        "fields": {
+            "name": "SIVA CHANDRAN"
+        },
+        "model": "popolo.person",
+        "pk": "siva-chandran"
+    },
+    {
+        "fields": {
+            "name": "CHEN JIAXI"
+        },
+        "model": "popolo.person",
+        "pk": "chen-jiaxi"
+    },
+    {
+        "fields": {
+            "name": "RON TAN JUN YEN"
+        },
+        "model": "popolo.person",
+        "pk": "ron-tan-jun-yen"
+    },
+    {
+        "fields": {
+            "name": "ABDUL RASHEED S/O Y ABDUL KUTHUS"
+        },
+        "model": "popolo.person",
+        "pk": "abdul-rasheed-so-y-abdul-kuthus"
+    },
+    {
+        "fields": {
+            "name": "SAMIR SALIM NEJI"
+        },
+        "model": "popolo.person",
+        "pk": "samir-salim-neji"
+    },
+    {
+        "fields": {
+            "name": "LONG YAOGUANG, DON BRYAN"
+        },
+        "model": "popolo.person",
+        "pk": "long-yaoguang-don-bryan"
+    },
+    {
+        "fields": {
+            "name": "OSMAN SULAIMAN"
+        },
+        "model": "popolo.person",
+        "pk": "osman-sulaiman"
+    },
+    {
+        "fields": {
+            "name": "SIM TIAN HOCK (SHEN TIANFU)"
+        },
+        "model": "popolo.person",
+        "pk": "sim-tian-hock-shen-tianfu"
+    },
+    {
+        "fields": {
+            "name": "CHRISTOPHER DE SOUZA"
+        },
+        "model": "popolo.person",
+        "pk": "christopher-de-souza"
+    },
+    {
+        "fields": {
+            "name": "KOH CHOONG YONG"
+        },
+        "model": "popolo.person",
+        "pk": "koh-choong-yong"
+    },
+    {
+        "fields": {
+            "name": "CEDRIC FOO CHEE KENG"
+        },
+        "model": "popolo.person",
+        "pk": "cedric-foo-chee-keng"
+    },
+    {
+        "fields": {
+            "name": "L SOMASUNDARAM"
+        },
+        "model": "popolo.person",
+        "pk": "l-somasundaram"
+    },
+    {
+        "fields": {
+            "name": "YADZETH BIN HAIRIS"
+        },
+        "model": "popolo.person",
+        "pk": "yadzeth-bin-hairis"
+    },
+    {
+        "fields": {
+            "name": "LIM BIOW CHUAN"
+        },
+        "model": "popolo.person",
+        "pk": "lim-biow-chuan"
+    },
+    {
+        "fields": {
+            "name": "NG ENG HEN"
+        },
+        "model": "popolo.person",
+        "pk": "ng-eng-hen"
+    },
+    {
+        "fields": {
+            "name": "LIANG ENG HWA"
+        },
+        "model": "popolo.person",
+        "pk": "liang-eng-hwa"
+    },
+    {
+        "fields": {
+            "name": "LAW KIM HWEE"
+        },
+        "model": "popolo.person",
+        "pk": "law-kim-hwee"
+    },
+    {
+        "fields": {
+            "name": "CHEE HONG TAT"
+        },
+        "model": "popolo.person",
+        "pk": "chee-hong-tat"
+    },
+    {
+        "fields": {
+            "name": "MOHAMED FAIROZ BIN SHARIFF"
+        },
+        "model": "popolo.person",
+        "pk": "mohamed-fairoz-bin-shariff"
+    },
+    {
+        "fields": {
+            "name": "BAEY YAM KENG"
+        },
+        "model": "popolo.person",
+        "pk": "baey-yam-keng"
+    },
+    {
+        "fields": {
+            "name": "CHEE SOON JUAN"
+        },
+        "model": "popolo.person",
+        "pk": "chee-soon-juan"
+    },
+    {
+        "fields": {
+            "name": "LEE TZE SHIH"
+        },
+        "model": "popolo.person",
+        "pk": "lee-tze-shih"
+    },
+    {
+        "fields": {
+            "name": "SEAH KIAN PENG"
+        },
+        "model": "popolo.person",
+        "pk": "seah-kian-peng"
+    },
+    {
+        "fields": {
+            "name": "PAUL ANANTHARAJAH TAMBYAH"
+        },
+        "model": "popolo.person",
+        "pk": "paul-anantharajah-tambyah"
+    },
+    {
+        "fields": {
+            "name": "MASAGOS ZULKIFLI"
+        },
+        "model": "popolo.person",
+        "pk": "masagos-zulkifli"
+    },
+    {
+        "fields": {
+            "name": "HARMINDER PAL SINGH S/O GURCHARAN SINGH"
+        },
+        "model": "popolo.person",
+        "pk": "harminder-pal-singh-so-gurcharan-singh"
+    },
+    {
+        "fields": {
+            "name": "LEE YI SHYAN"
+        },
+        "model": "popolo.person",
+        "pk": "lee-yi-shyan"
+    },
+    {
+        "fields": {
+            "name": "CHAN CHUN SING"
+        },
+        "model": "popolo.person",
+        "pk": "chan-chun-sing"
+    },
+    {
+        "fields": {
+            "name": "K MURALIDHARAN PILLAI"
+        },
+        "model": "popolo.person",
+        "pk": "k-muralidharan-pillai"
+    },
+    {
+        "fields": {
+            "name": "NOR LELLA MARDIIIAH BTE MOHAMED"
+        },
+        "model": "popolo.person",
+        "pk": "nor-lella-mardiiiah-bte-mohamed"
+    },
+    {
+        "fields": {
+            "name": "MOHAMAD HAMIM BIN ALIYAS"
+        },
+        "model": "popolo.person",
+        "pk": "mohamad-hamim-bin-aliyas"
+    },
+    {
+        "fields": {
+            "name": "FOO SECK GUAN"
+        },
+        "model": "popolo.person",
+        "pk": "foo-seck-guan"
+    },
+    {
+        "fields": {
+            "name": "MD SIDEK BIN MALLEK"
+        },
+        "model": "popolo.person",
+        "pk": "md-sidek-bin-mallek"
+    },
+    {
+        "fields": {
+            "name": "CHENG LI HUI"
+        },
+        "model": "popolo.person",
+        "pk": "cheng-li-hui"
+    },
+    {
+        "fields": {
+            "name": "LIM BOON HENG"
+        },
+        "model": "popolo.person",
+        "pk": "lim-boon-heng"
+    },
+    {
+        "fields": {
+            "name": "WONG CHEE WAI"
+        },
+        "model": "popolo.person",
+        "pk": "wong-chee-wai"
+    },
+    {
+        "fields": {
+            "name": "SYAFARIN BIN SARIF"
+        },
+        "model": "popolo.person",
+        "pk": "syafarin-bin-sarif"
+    },
+    {
+        "fields": {
+            "name": "HE TINGRU"
+        },
+        "model": "popolo.person",
+        "pk": "he-tingru"
+    },
+    {
+        "fields": {
+            "name": "MOHAMAD ABDILLAH BIN ZAMZURI"
+        },
+        "model": "popolo.person",
+        "pk": "mohamad-abdillah-bin-zamzuri"
+    },
+    {
+        "fields": {
+            "name": "FONG CHIN LEONG"
+        },
+        "model": "popolo.person",
+        "pk": "fong-chin-leong"
+    },
+    {
+        "fields": {
+            "name": "MOHAMAD FAHMI BIN AHMAD RAIS"
+        },
+        "model": "popolo.person",
+        "pk": "mohamad-fahmi-bin-ahmad-rais"
+    },
+    {
+        "fields": {
+            "name": "LEE LI LIAN"
+        },
+        "model": "popolo.person",
+        "pk": "lee-li-lian"
+    },
+    {
+        "fields": {
+            "name": "FOO MING JIN DAVID"
+        },
+        "model": "popolo.person",
+        "pk": "foo-ming-jin-david"
+    },
+    {
+        "fields": {
+            "name": "JESSE LOO HOE BOCK"
+        },
+        "model": "popolo.person",
+        "pk": "jesse-loo-hoe-bock"
+    },
+    {
+        "fields": {
+            "name": "TAN LIANG JOO JOHN"
+        },
+        "model": "popolo.person",
+        "pk": "tan-liang-joo-john"
+    },
+    {
+        "fields": {
+            "name": "YEO REN-YUAN"
+        },
+        "model": "popolo.person",
+        "pk": "yeo-ren-yuan"
+    },
+    {
+        "fields": {
+            "name": "ONG TENG KOON"
+        },
+        "model": "popolo.person",
+        "pk": "ong-teng-koon"
+    },
+    {
+        "fields": {
+            "name": "LOH WOON LEE LINA"
+        },
+        "model": "popolo.person",
+        "pk": "loh-woon-lee-lina"
+    },
+    {
+        "fields": {
+            "name": "NG KOK KWANG LOUIS"
+        },
+        "model": "popolo.person",
+        "pk": "ng-kok-kwang-louis"
+    },
+    {
+        "fields": {
+            "name": "NG CHUNG HON"
+        },
+        "model": "popolo.person",
+        "pk": "ng-chung-hon"
+    },
+    {
+        "fields": {
+            "name": "SUN XUELING"
+        },
+        "model": "popolo.person",
+        "pk": "sun-xueling"
+    },
+    {
+        "fields": {
+            "name": "M RAVI"
+        },
+        "model": "popolo.person",
+        "pk": "m-ravi"
+    },
+    {
+        "fields": {
+            "name": "JEANNETTE CHONG - ARULDOSS"
+        },
+        "model": "popolo.person",
+        "pk": "jeannette-chong-aruldoss"
+    },
+    {
+        "fields": {
+            "name": "ANG WEI NENG"
+        },
+        "model": "popolo.person",
+        "pk": "ang-wei-neng"
+    },
+    {
+        "fields": {
+            "name": "DANIEL GOH PEI SIONG"
+        },
+        "model": "popolo.person",
+        "pk": "daniel-goh-pei-siong"
+    },
+    {
+        "fields": {
+            "name": "CHIA SHI-LU"
+        },
+        "model": "popolo.person",
+        "pk": "chia-shi-lu"
+    },
+    {
+        "fields": {
+            "name": "TAN SOON NEO JESSICA"
+        },
+        "model": "popolo.person",
+        "pk": "tan-soon-neo-jessica"
+    },
+    {
+        "fields": {
+            "name": "NG CHEE MENG"
+        },
+        "model": "popolo.person",
+        "pk": "ng-chee-meng"
+    },
+    {
+        "fields": {
+            "name": "GERALD GIAM YEAN SONG"
+        },
+        "model": "popolo.person",
+        "pk": "gerald-giam-yean-song"
+    },
+    {
+        "fields": {
+            "name": "JANIL PUTHUCHEARY"
+        },
+        "model": "popolo.person",
+        "pk": "janil-puthucheary"
+    },
+    {
+        "fields": {
+            "name": "WONG SOUK YEE"
+        },
+        "model": "popolo.person",
+        "pk": "wong-souk-yee"
+    },
+    {
+        "fields": {
+            "name": "RAVI PHILEMON"
+        },
+        "model": "popolo.person",
+        "pk": "ravi-philemon"
+    },
+    {
+        "fields": {
+            "name": "TAN WU MENG"
+        },
+        "model": "popolo.person",
+        "pk": "tan-wu-meng"
+    },
+    {
+        "fields": {
+            "name": "CHOONG HON HENG"
+        },
+        "model": "popolo.person",
+        "pk": "choong-hon-heng"
+    },
+    {
+        "fields": {
+            "name": "KWEK HIAN CHUAN"
+        },
+        "model": "popolo.person",
+        "pk": "kwek-hian-chuan"
+    },
+    {
+        "fields": {
+            "name": "SITOH YIH PIN"
+        },
+        "model": "popolo.person",
+        "pk": "sitoh-yih-pin"
+    },
+    {
+        "fields": {
+            "name": "SADASIVAM V"
+        },
+        "model": "popolo.person",
+        "pk": "sadasivam-v"
+    },
+    {
+        "fields": {
+            "name": "HENG CHEE HOW"
+        },
+        "model": "popolo.person",
+        "pk": "heng-chee-how"
+    },
+    {
+        "fields": {
+            "name": "YEE JENN JONG"
+        },
+        "model": "popolo.person",
+        "pk": "yee-jenn-jong"
+    },
+    {
+        "fields": {
+            "name": "KHAW BOON WAN"
+        },
+        "model": "popolo.person",
+        "pk": "khaw-boon-wan"
+    },
+    {
+        "fields": {
+            "name": "TEO CHEE HEAN"
+        },
+        "model": "popolo.person",
+        "pk": "teo-chee-hean"
+    },
+    {
+        "fields": {
+            "name": "PATRICK TAY TECK GUAN"
+        },
+        "model": "popolo.person",
+        "pk": "patrick-tay-teck-guan"
+    },
+    {
+        "fields": {
+            "name": "JOSEPHINE TEO"
+        },
+        "model": "popolo.person",
+        "pk": "josephine-teo"
+    },
+    {
+        "fields": {
+            "name": "CHEO CHAI CHEN"
+        },
+        "model": "popolo.person",
+        "pk": "cheo-chai-chen"
+    },
+    {
+        "fields": {
+            "name": "SAKTIANDI BIN SUPAAT"
+        },
+        "model": "popolo.person",
+        "pk": "saktiandi-bin-supaat"
+    },
+    {
+        "fields": {
+            "name": "LEE HONG CHUANG"
+        },
+        "model": "popolo.person",
+        "pk": "lee-hong-chuang"
+    },
+    {
+        "fields": {
+            "name": "INTAN AZURA BINTE MOKHTAR"
+        },
+        "model": "popolo.person",
+        "pk": "intan-azura-binte-mokhtar"
+    },
+    {
+        "fields": {
+            "name": "TAN CHIN SIONG"
+        },
+        "model": "popolo.person",
+        "pk": "tan-chin-siong"
+    },
+    {
+        "fields": {
+            "name": "KOH POH KOON"
+        },
+        "model": "popolo.person",
+        "pk": "koh-poh-koon"
+    },
+    {
+        "fields": {
+            "name": "DAMANHURI BIN ABAS"
+        },
+        "model": "popolo.person",
+        "pk": "damanhuri-bin-abas"
+    },
+    {
+        "fields": {
+            "name": "LEON PERERA"
+        },
+        "model": "popolo.person",
+        "pk": "leon-perera"
+    },
+    {
+        "fields": {
+            "name": "ROY NGERNG YI LING"
+        },
+        "model": "popolo.person",
+        "pk": "roy-ngerng-yi-ling"
+    },
+    {
+        "fields": {
+            "name": "CHARLES CHONG YOU FOOK"
+        },
+        "model": "popolo.person",
+        "pk": "charles-chong-you-fook"
+    },
+    {
+        "fields": {
+            "name": "FOO MEE HAR"
+        },
+        "model": "popolo.person",
+        "pk": "foo-mee-har"
+    },
+    {
+        "fields": {
+            "name": "CHUA ENG LEONG"
+        },
+        "model": "popolo.person",
+        "pk": "chua-eng-leong"
+    },
+    {
+        "fields": {
+            "name": "LIM WEE KIAK"
+        },
+        "model": "popolo.person",
+        "pk": "lim-wee-kiak"
+    },
+    {
+        "fields": {
+            "name": "ZHU LAICHENG"
+        },
+        "model": "popolo.person",
+        "pk": "zhu-laicheng"
+    },
+    {
+        "fields": {
+            "name": "FATIMAH BINTE ABDUL LATEEF"
+        },
+        "model": "popolo.person",
+        "pk": "fatimah-binte-abdul-lateef"
+    },
+    {
+        "fields": {
+            "name": "CHERYL LOH XIU WEN"
+        },
+        "model": "popolo.person",
+        "pk": "cheryl-loh-xiu-wen"
+    },
+    {
+        "fields": {
+            "name": "KUMAR S/O APPAVOO"
+        },
+        "model": "popolo.person",
+        "pk": "kumar-so-appavoo"
+    },
+    {
+        "fields": {
+            "name": "DESMOND LEE"
+        },
+        "model": "popolo.person",
+        "pk": "desmond-lee"
+    },
+    {
+        "fields": {
+            "name": "MUHAMMAD FAISHAL IBRAHIM"
+        },
+        "model": "popolo.person",
+        "pk": "muhammad-faishal-ibrahim"
+    },
+    {
+        "fields": {
+            "name": "TAN JEE SAY"
+        },
+        "model": "popolo.person",
+        "pk": "tan-jee-say"
+    },
+    {
+        "fields": {
+            "name": "LIM TEAN"
+        },
+        "model": "popolo.person",
+        "pk": "lim-tean"
+    },
+    {
+        "fields": {
+            "name": "LIM HNG KIANG"
+        },
+        "model": "popolo.person",
+        "pk": "lim-hng-kiang"
+    },
+    {
+        "fields": {
+            "name": "NG FOO ENG"
+        },
+        "model": "popolo.person",
+        "pk": "ng-foo-eng"
+    },
+    {
+        "fields": {
+            "name": "TERENCE TAN"
+        },
+        "model": "popolo.person",
+        "pk": "terence-tan"
+    },
+    {
+        "fields": {
+            "name": "GO HUI LENG"
+        },
+        "model": "popolo.person",
+        "pk": "go-hui-leng"
+    },
+    {
+        "fields": {
+            "name": "REDZWAN HAFIDZ ABDUL RAZAK"
+        },
+        "model": "popolo.person",
+        "pk": "redzwan-hafidz-abdul-razak"
+    },
+    {
+        "fields": {
+            "name": "2015 General Election",
+            "searchable": true,
+            "slug": "2015-general-election"
+        },
+        "model": "elections.election",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lee-hsien-loong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "goh-keow-wah"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tharman-shanmugaratnam"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "mohd-maliki-bin-osman"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "pwee-yek-kwan-benjamin"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "zainal-bin-sapari"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "khung-wai-yeen"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chong-wai-fung"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-tong-zhen"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chan-sio-phing-frieda-zeng-xiaoping"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ong-beng-soon-elvin"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "low-thia-khiang"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tan-chuan-jin"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "pritam-singh"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "k-shanmugam"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-bak-chuan-desmond"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "yee-chia-hsing"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "amrin-amin"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "zaqy-mohamad"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "png-eng-huat"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "sim-ann"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "s-iswaran"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chong-kee-hiong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "kenneth-andrew-jeyaretnam"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "gan-kim-yong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tan-peng-ann"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "indranee-thurai-rajah"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "gurmit-singh-so-sadhu-singh"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ong-ye-kung"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-tung-hee-arthero"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lee-bee-wah"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lily-neo"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chen-show-mao"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "md-faisal-bin-abdul-manap"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "vikram-nair"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "low-wai-choo"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "cheryl-chan-wei-ling"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tin-pei-ling"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "yeo-guat-kwang"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "vivian-balakrishnan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lawrence-wong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "rahayu-binte-mahzam"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tong-chun-fai-edwin-charles"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "halimah-yacob"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "david-ong-kim-huat"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ong-teik-seng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "alex-yam-ziming"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "david-darryl-wilson"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "gan-thiam-poh"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "sylvia-lim"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lye-thiam-fatt-joseph-victor"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ang-hin-kee"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "wong-soon-hong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "joan-pereira"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "koh-tiong-yee"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lam-pin-min"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "firuz-khan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "amy-khor-lean-suan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "han-hui-hui"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chiu-weng-hoe-melvyn"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "goh-meng-seng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "grace-fu-hai-yien"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "low-yen-ling"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "goh-chok-tong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "heng-swee-keat"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-swee-say"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "teo-kway-huang-sebastian"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chirag-praful-desai"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "dennis-tan-lip-fong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "melvin-yong-yik-chye"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "teo-ho-pin"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "sukdeu-singh"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "wong-way-weng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "yaacob-ibrahim"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "shamsul-kamar-bin-mohamed-razali"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "teo-ser-luck"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "noraini-bte-yunus"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "soh-guan-soon"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "denise-phua-lay-peng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ang-yong-guan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "desmond-choo-pey-ching"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "abu-bin-mohamed"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "siva-chandran"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chen-jiaxi"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ron-tan-jun-yen"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "abdul-rasheed-so-y-abdul-kuthus"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "samir-salim-neji"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "long-yaoguang-don-bryan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "osman-sulaiman"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "sim-tian-hock-shen-tianfu"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "christopher-de-souza"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "koh-choong-yong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "cedric-foo-chee-keng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "l-somasundaram"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "yadzeth-bin-hairis"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-biow-chuan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ng-eng-hen"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "liang-eng-hwa"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "law-kim-hwee"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chee-hong-tat"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "mohamed-fairoz-bin-shariff"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "baey-yam-keng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chee-soon-juan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lee-tze-shih"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "seah-kian-peng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "paul-anantharajah-tambyah"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "masagos-zulkifli"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "harminder-pal-singh-so-gurcharan-singh"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lee-yi-shyan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chan-chun-sing"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "k-muralidharan-pillai"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "nor-lella-mardiiiah-bte-mohamed"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "mohamad-hamim-bin-aliyas"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "foo-seck-guan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "md-sidek-bin-mallek"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "cheng-li-hui"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-boon-heng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "wong-chee-wai"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "syafarin-bin-sarif"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "he-tingru"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "mohamad-abdillah-bin-zamzuri"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "fong-chin-leong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "mohamad-fahmi-bin-ahmad-rais"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lee-li-lian"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "foo-ming-jin-david"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "jesse-loo-hoe-bock"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tan-liang-joo-john"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "yeo-ren-yuan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ong-teng-koon"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "loh-woon-lee-lina"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ng-kok-kwang-louis"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ng-chung-hon"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "sun-xueling"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "m-ravi"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "jeannette-chong-aruldoss"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ang-wei-neng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "daniel-goh-pei-siong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chia-shi-lu"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tan-soon-neo-jessica"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ng-chee-meng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "gerald-giam-yean-song"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "janil-puthucheary"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "wong-souk-yee"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ravi-philemon"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tan-wu-meng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "choong-hon-heng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "kwek-hian-chuan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "sitoh-yih-pin"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "sadasivam-v"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "heng-chee-how"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "yee-jenn-jong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "khaw-boon-wan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "teo-chee-hean"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "patrick-tay-teck-guan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "josephine-teo"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "cheo-chai-chen"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "saktiandi-bin-supaat"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lee-hong-chuang"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "intan-azura-binte-mokhtar"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tan-chin-siong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "koh-poh-koon"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "damanhuri-bin-abas"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "leon-perera"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "roy-ngerng-yi-ling"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "charles-chong-you-fook"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "foo-mee-har"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "chua-eng-leong"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-wee-kiak"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "zhu-laicheng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "fatimah-binte-abdul-lateef"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "cheryl-loh-xiu-wen"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "kumar-so-appavoo"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "desmond-lee"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "muhammad-faishal-ibrahim"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "tan-jee-say"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-tean"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "lim-hng-kiang"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "ng-foo-eng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "terence-tan"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "go-hui-leng"
+    },
+    {
+        "fields": {
+            "election": 1
+        },
+        "model": "elections.candidate",
+        "pk": "redzwan-hafidz-abdul-razak"
+    }
+]
