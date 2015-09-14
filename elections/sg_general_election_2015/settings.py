@@ -77,7 +77,7 @@ from datetime import date
 
 
 ELECTIONS = {
-    '2015': {
+    '2015ge': {
         'for_post_role': 'Member of Parliament',
         'candidate_membership_role': 'Candidate',
         'winner_membership_role': None,
